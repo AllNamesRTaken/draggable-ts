@@ -1,10 +1,11 @@
-# draggable
+# draggable-ts
 
-High performance, fully cross browser, full featured drag and drop in a tiny (2k gzipped), dependency-free package.
+High performance, modern browser, drag and drop in a tiny (2k gzipped), dependency-free package.
+Based on bcherny/draggable but rewritten in typescript and without IE8 support.
 
 ## Demo
 
-http://bcherny.github.io/draggable/demos/basic/
+http://allnamesrtaken.github.io/draggable/demos/basic/
 
 ## Usage
 
@@ -132,19 +133,8 @@ limit: function (
 
 ## Tested on
 
-- Chrome 29 on OSX
-- Chrome 28 on Windows
-- Firefox 23 on OSX
-- Firefox 21 on Windows
-- Opera 16 on OSX
-- Safari 6 on OSX
-- Safari 6 on iPhone4/iOS6
-- Safari 6 on iPhone5/iOS6
-- Safari 6 on iPad2/iOS6
-- Safari 6 on iPad3/iOS6
-- Internet Explorer 8-10 on Windows
+???
 
 ## To do
 
-- Improve performance on old iOS
-- Unit tests
+???
